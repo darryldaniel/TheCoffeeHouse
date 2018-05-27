@@ -1,6 +1,8 @@
-# test-project
+# The Coffee House
 
-> A Vue.js project
+> Hypothetical coffee shop built with vue.js on codesandbox.io
+
+[Link to web client](https://pp480r70m0.codesandbox.io/)
 
 ## Build Setup
 
